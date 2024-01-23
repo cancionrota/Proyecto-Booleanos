@@ -1,2 +1,1 @@
 print('miau')
-cd ..
